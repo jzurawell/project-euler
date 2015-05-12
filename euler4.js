@@ -12,6 +12,6 @@ for (var i = 999; i > 99; i--) {
     }
 }
 
-var max_of_array = Math.max.apply(Math, palindrome);
+var maxOfArray = Math.max.apply(Math, palindrome);
 console.log(max_of_array);
 
