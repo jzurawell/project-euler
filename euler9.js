@@ -1,7 +1,5 @@
 function pythagorean(a, b, c) {
-    console.log(a);
-    console.log(b);
-    console.log(c);
+    console.log(a * b * c);
 }
 
 for (var a = 1; a < 1000; a++) {
